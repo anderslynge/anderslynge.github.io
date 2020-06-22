@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/anderslynge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://anderslynge.dk
+  * I am anderslynge (https://keybase.io/anderslynge) on keybase.
+  * I have a public key with fingerprint 5A9E 990D 9753 5FCD 1FEF  5AF6 010D 3B02 9A9B 80AD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c684a7dc34ed2972ba2c21d9bcf76c96beb76639a918908ef14b3aa74afbc960a",
+      "fingerprint": "5a9e990d97535fcd1fef5af6010d3b029a9b80ad",
+      "host": "keybase.io",
+      "key_id": "010d3b029a9b80ad",
+      "kid": "0101f1d0b7762d6c6fbb6d6079dc3a6d3a2f6e6cb67feb8a5c9e01ac0cf56cc34dd00a",
+      "uid": "d15df9cda8c07224fbfbe04a5aa92219",
+      "username": "anderslynge"
+    },
+    "merkle_root": {
+      "ctime": 1535455832,
+      "hash_meta": "b8335da664a121d2679c5deef16cab35f3a5dafa3869306a76b13e0cffa1d75b",
+      "seqno": 3525879
+    },
+    "revoke": {
+      "sig_ids": [
+        "f19975c9e13feba7e1b51ac1997d56a21a1e777b53123a68039b7a971333ae430f"
+      ]
+    },
+    "service": {
+      "hostname": "anderslynge.dk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535455869,
+  "expire_in": 157680000,
+  "prev": "d6bddd5d60b7865aaac1139a128ea7a7b6e8ae4eaff7a6e8b60ea979ce03ffc2",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMP5AnicZZN9cA5HHMcTCSWVibQqakzHHKEIbu+e271LJn3RjqRmOoZpFYk8dm/3
+Hpfn5eLu8khE6mVQJi0TaTKpyJSo99ZLOkoaUiJehpIEoVRaw7SjqkrRYmi7l2E6
+U/fP3e3+Xr7fz2+3JTEuJiE2NjGj26qa+V/EHm+eUxiTs1gqLRGIRYuF9BIhyLpe
+LESZ4/qDJhXSBRFIoqxD1YcR1WUfo5KGJIIlXQJUI7qBoK5BwgiCUNawBlRNVJkB
+fETGGPmwQfi2iIU0wTAjAWYX2GbE5WUVrDFNE6mGFFkxdAoMZijYgCIQqUxEiZci
+qogpT5xpOV4GF0eww0abFl/jP/7H8p6Kf6JbBAagIkEIShTq0CAEUigijdvAkMpY
+MiCDOoHIYETFiq4xEWBd1A0F6twppWKX7sKuchQo1NB0ilVdRJLkM4hBmOjDCsaa
+JAHNC3SYHcFhxqNxhDLbCRVzx0JpmhBmdjDE/LZluR5f3TW9KMCd+xRFlSXuETsz
+/WHmYp5MVFlWKIbQhwGHLEGk6QplHCrUMeG0ZMy3DSyrUJNFiBEkQGZct4EBRQrh
+Uhw2K2IJ6bIiKSrSuAKbRa0g85o7ZoCTc4T0HMEAGsfPfQOZI8CIAaJwAt4qVSCW
+AAYMIUQUGUgcmSrKGkFYQ0CWZcx8smgI00u9ZnbU1LuKe6N6GsFoGuSaCmzLtXQr
+xPdmum5BugfGLS7wYmcz4n9cxU/MCOUnhSdEeb5pRTgoHvk/ZlBLE1hRgWkzv+lF
+KIjL44/XhkW9eUFCKVX4wAlSIZ8S9wX4AQWSyjDCiECmcg8MGwbC/JtAkXFrms5E
+2TB06T+IEuA6cYDX5Ogi2C20+UybD+TGx8QmxPTo3s27QjEJvfo8uViN9UmPUqob
+16ZmtRU3r7vmOyGtWP3TLnHRkkDFndqz07IjW09POLVv4qLD95M61t8sn6eHcme1
+23XXHk24nzt5xrhLLRXDx52My1iaqewP4qa89oXH9w2ofO+BP+uGPL1//Krixsla
+Z+vG/UMu97u/NrF13MmWYdHwptrdTaOv3k7qObRt6cO86aNSXn6zYk947NTWUUMG
+tX2/O8ye6dzafHmd2fnDrehht6Gsp313z/wz+0e8uOHwqYH5Bz/6S1/ZYD5Xfe53
+a27K8NzepaDd5zQk/JixOmfnLxGz2xt1jXezp+R3uq2BhF1/zlOmlcSdr6yKvl7b
+0jezbGPT+ebqAzuya/flfvx5fvLkSX5n0cB/RqyJHWR8OaLj1T86l8Sd6Du0qnLG
+9ZtzA3PbP0iruHWvY2T9nJq6Yyvb2EF78Ib6r4c1NB3dlbls5CflgIYHbA+9sPdR
+Bhlyo+rKob9Lur+2fN62tQmpO8er6AHr//DqORAqWzP12/LWfptm1E08Uj7I/83y
+YIqw5NjZS5OevZGT/8qWoikXe81eMGdM1sReTmKhs31KDXz/+sXUd7NTU5LzxOuk
+B6hxy3+9sKz652Npn1VnZH43tveOT7NOrx/c8nZK0ba2t36rz7/9fGTdnb0tbUZS
+3UtXNr/DzmyODy4rsvLG53+4oLryq4Xz73X0GXM0Of5I1eJDvRtXJE44VTbywpZY
+cO708eRA+78n+AsF
+=f996
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anderslynge
+
+==================================================================
