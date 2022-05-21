@@ -7,6 +7,105 @@
         {
             "Time": "10.20 - 10.30 ",
             "Session": "Welcome by Fønss and Anders"
+        }, 
+        {
+            "Time": "10.30 - 10.45 ",
+            "Session": "The Intern Programme by Simon Hviid"
+        }, 
+        {
+            "Time": "10.45 - 11.00 ",
+            "Session": "Presenting at 1337 m337 by Rasmus and Kim"
+        }, 
+        {
+            "Time": "11.00 - 11.15 ",
+            "Session": "Break"
+        }, 
+        {
+            "Time": "11.15 - 12.00 ",
+            "Session": "Keynote by Steffen"
+        }, 
+        {
+            "Time": "12.00 - 13.00 ",
+            "Session": "Food and social"
+        },
+        {
+            "Time": "13.00 - 14.00 ",
+            "Session": "ECCO case by Rasmus Westfall"
+        },
+        {
+            "Time": "14.00 - 14.15",
+            "Session": "Break"
+        },
+        {
+            "Time": "14.15 - 14.45",
+            "Session": "Provisioning tool by Kim Petersen"
+        },
+        {
+            "Time": "14.45 - 14.55",
+            "Session": "Break"
+        },
+        {
+            "Time": "14.55 - 15.00",
+            "Session": "Introduction to mini-workshops / hackathon by Fønss and Anders"
+        },
+        {
+            "Time": "15.00 - 15.30",
+            "Sessions": [
+                {
+                    "Location": "The Big Room", 
+                    "Session": ".Net 6 challenges and opportunities"
+                },
+                {
+                    "Location": "Meeting room 4", 
+                    "Session": "Sitecore JSS and React.js"
+                },
+                {
+                    "Location": "Anywhere", 
+                    "Session": "Hackathon"
+                }
+            ]
+        },
+        {
+            "Time": "15.30 - 16.00",
+            "Sessions": [
+                {
+                    "Location": "The Big Room", 
+                    "Session": "Automated testing - current state and future"
+                },
+                {
+                    "Location": "Meeting room 4", 
+                    "Session": "Secure apis with OAuth 2"
+                },
+                {
+                    "Location": "Anywhere", 
+                    "Session": "Hackathon"
+                }
+            ]
+        },
+        {
+            "Time": "16.00 - 16.30",
+            "Sessions": [
+                {
+                    "Location": "The Big Room", 
+                    "Session": "Docker and Containers"
+                },
+                {
+                    "Location": "Meeting room 4", 
+                    "Session": "Enterspeed"
+                },
+                {
+                    "Location": "Anywhere", 
+                    "Session": "Hackathon"
+                }
+            ]
+        },
+        {
+            "Time": "16.30 - 17.00",
+            "Session": "Break"
+        },
+        {
+            "Time": "17.00 - ?",
+            "Session": "Eat and social"
         }
     ]
 }
