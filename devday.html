@@ -23,7 +23,7 @@
             var mainContainer = document.getElementById("myData");
             for (var i = 0; i < data.length; i++) {
                 var div = document.createElement("div");
-                div.innerHTML = 'Name: ' + data[i].firstName + ' ' + data[i].lastName;
+                div.innerHTML = 'Time: ' + data[i].Time + ' <br/>Session: ' + data[i].Session;
                 mainContainer.appendChild(div);
             }
         }
